@@ -1,2 +1,2 @@
 # WebTechnoloy
-Static Website using HTML &amp; CSS
+Company Profile Website using HTML &amp; CSS
